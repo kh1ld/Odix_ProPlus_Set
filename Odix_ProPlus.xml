@@ -1,0 +1,2778 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Odix_ProPlus
+</name>
+</assembly>
+<members>
+<member name="T:Odix_ProPlus.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._104">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._1041">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._116">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._117">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._133">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._134">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._14">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._179">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._18">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._181">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._1811">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._182">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._183">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._193">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._1button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._1button_click">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._1button_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._214">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._22">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._224">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._2241">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._225">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._25">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._27">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._29">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._3333">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._37">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._371">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._372">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._38">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._41">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._43">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._431">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._44">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._444">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._49">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._491">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._492">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._5311083_middle1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._555">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._5551">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._60">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._641">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._66">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._77">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._771">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._777">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._79">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._87">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._888">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._97">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources._next">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.acctree">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.add1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.add2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.amsn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.arrow_left_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.arrow_left_double_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.arrow_right_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.arrow_right_double_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.article_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.article_add_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.article_write_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Badge_multiply">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Barcode">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Barcode1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.bkfloppy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.blueprint">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.blueprint2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.book_open">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.books">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Box">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Box_double_tape">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.c1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.call_center_agent">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.call_center_agent__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.cancel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.cancel1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.cancel11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.cancel2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.cart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.cash_register">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.ch2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.chart_iteme">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.chartaccount">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.chartaccount1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Checkmark_28px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.close_window">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.close_window1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.conversation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.copy_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Crate_Download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.cross_button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.customer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Dapino_Flowered_Folder_Folder_flower_beige">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Dapino_Flowered_Folder_Folder_flower_black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Dapino_Flowered_Folder_Folder_flower_blue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Dapino_Flowered_Folder_Folder_flower_green">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Dapino_Flowered_Folder_Folder_flower_light_grey">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Dapino_Flowered_Folder_Folder_flower_orange">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Dapino_Flowered_Folder_Folder_flower_pink">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.db_add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.db_comit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.db_update">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.detective">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.detective1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.detective11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.detective2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.disk_return">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.document_edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.document_open">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.document_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.document_print_frame_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.download__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.download__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.download__1_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.download__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.download__2_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.download__2_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.download__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.download__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.download1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.download2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.download3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.download4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.download5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.edit_property">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.edit_property1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Error_28px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.first">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.first1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.first2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.first21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.format_line_spacing_double">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Glyph_Add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.gnome_gnumeric">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.google_web_search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.hang_up">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.hhhhhhhhhhh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Icono_cerrar_FN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.icons8_cancel_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.if_basket_1814090">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.if_Food_572824">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images__1_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images__1_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images__1_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images__2_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images10">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.images9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.in_mony">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.invoice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.invoice_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.last">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.last1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.last2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.last21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.list">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.list1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.lo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.logo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.logout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.memo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.menu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.menu1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.minimize_window__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.ms_excel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.multi_edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.my_reports">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.next1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.next11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.next2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.note">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.note1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.oout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.open_book">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Orb_minus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Orb_plus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.OUTpayment">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Oxygen_Icons_org_Oxygen_Places_folder_green">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.pict">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.player_play">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.plus_2_math">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.plus_2_math1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.plus_2_math2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.previous">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.previous1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.previous11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.print">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.print1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.print2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.purshase">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.receptionist">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.rep1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.rep2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.rep3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.report4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.report5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Ruler_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.sales">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.sales1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.save_as">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.save_as__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.save_as1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.save_as2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.save_as3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.save_as31">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.save_as32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.search_16x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.search_16x161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.seet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Shop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.shopping_basket">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.sort_by_closing_date">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.speedcrunch">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.start_n">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.support">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.support_man">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.support_man1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.support_woman">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.synchronize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.synchronize1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.System">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.system_settings">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.System1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.tab_bg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.tab_hover_bg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.taxi_driver">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.temp1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Tools">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.tqadom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.truck">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.WhatsApp_Image_2019_04_09_at_4_55_14_PM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.WhatsApp_Image_2019_04_09_at_4_551">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Write_document">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Write_document1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Write_document2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.خلفية_تس_بلس">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.خلفية_تس_بلس1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.خلفية_تل_بلاس_بعد_التعديل">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tb_brDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_CODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_CURRDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.ACCOUNTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_CUDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_CategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_STDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_UNITDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.GET_DAYDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.prt_invoiceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.prt_invoice1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.usp_Barcod_reportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.GET_DAY_payDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Usp_ChartOfaccount_SelectDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Usp_Category_SelectDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Usp_ItemeParent_SelectDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.usp_TB_Contact_Category_SelectDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.usp_TB_CU_SelectDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.get_mizan_bigDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Operation_ReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.fian_accountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.get_BillCashDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.zmm_customerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.zmm_SalesManDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.day_itenme_oneDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.day_itenme_ALLDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_notbillDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.bill_toalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Store_TransferDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.usp_ItemsBarcodeBill_reportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.rate_customerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_profitDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Bill_profitDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.DashboardBill_profitDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Dashboarditeme_profitDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Dashboardrate_customerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.DashboardTotalSaleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Dashboarditeme_notbillDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Dashboarditeme_MaxcounDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Dashboarditeme_MincounDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.get_JOURNALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Checks_Select_DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Checks_SelectIdDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.day_itenme_GuaranteeEndDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_balanceExpireDatePDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.get_JOURNAL_CustomerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_OrderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_balanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_balance_BarcodeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_balance_SerialDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.day_itenme_ALL_OfferDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.usp_ItemsList_reportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_countDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_TransferDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.day_itenme_one_odetorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tva_billDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tva_itemDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tvaOperationsef_ReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tvaOperation_ReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TDAY2_Payment_printDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1._DAY2tMaster_printDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tva_ReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.bill_pay_printDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.DAY2tMasterRows_printDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.print__shiftposDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.report__shiftposDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.prt_QtainvoiceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.prt_dayDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tb_brRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_CORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_CURRRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.ACCOUNTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_CURow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_CategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_STRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_UNITRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.GET_DAYRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.prt_invoiceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.prt_invoice1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.usp_Barcod_reportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.GET_DAY_payRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Usp_ChartOfaccount_SelectRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Usp_Category_SelectRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Usp_ItemeParent_SelectRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.usp_TB_Contact_Category_SelectRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.usp_TB_CU_SelectRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.get_mizan_bigRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Operation_ReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.fian_accountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.get_BillCashRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.zmm_customerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.zmm_SalesManRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.day_itenme_oneRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.day_itenme_ALLRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_notbillRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.bill_toalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Store_TransferRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.usp_ItemsBarcodeBill_reportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.rate_customerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_profitRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Bill_profitRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.DashboardBill_profitRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Dashboarditeme_profitRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Dashboardrate_customerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.DashboardTotalSaleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Dashboarditeme_notbillRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Dashboarditeme_MaxcounRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Dashboarditeme_MincounRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.get_JOURNALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Checks_Select_Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Checks_SelectIdRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.day_itenme_GuaranteeEndRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_balanceExpireDatePRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.get_JOURNAL_CustomerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_OrderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_balanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_balance_BarcodeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_balance_SerialRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.day_itenme_ALL_OfferRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.usp_ItemsList_reportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_countRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_TransferRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.day_itenme_one_odetorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tva_billRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tva_itemRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tvaOperationsef_ReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tvaOperation_ReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TDAY2_Payment_printRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1._DAY2tMaster_printRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tva_ReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.bill_pay_printRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.DAY2tMasterRows_printRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.print__shiftposRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.report__shiftposRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.prt_QtainvoiceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.prt_dayRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tb_brRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_CORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_CURRRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.ACCOUNTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_CURowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_CategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_STRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TB_UNITRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.GET_DAYRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.prt_invoiceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.prt_invoice1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.usp_Barcod_reportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.GET_DAY_payRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Usp_ChartOfaccount_SelectRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Usp_Category_SelectRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Usp_ItemeParent_SelectRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.usp_TB_Contact_Category_SelectRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.usp_TB_CU_SelectRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.get_mizan_bigRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Operation_ReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.fian_accountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.get_BillCashRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.zmm_customerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.zmm_SalesManRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.day_itenme_oneRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.day_itenme_ALLRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_notbillRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.bill_toalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Store_TransferRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.usp_ItemsBarcodeBill_reportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.rate_customerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_profitRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Bill_profitRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.DashboardBill_profitRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Dashboarditeme_profitRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Dashboardrate_customerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.DashboardTotalSaleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Dashboarditeme_notbillRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Dashboarditeme_MaxcounRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Dashboarditeme_MincounRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.get_JOURNALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Checks_Select_RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.Checks_SelectIdRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.day_itenme_GuaranteeEndRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_balanceExpireDatePRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.get_JOURNAL_CustomerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_OrderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_balanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_balance_BarcodeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_balance_SerialRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.day_itenme_ALL_OfferRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.usp_ItemsList_reportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_countRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.iteme_TransferRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.day_itenme_one_odetorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tva_billRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tva_itemRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tvaOperationsef_ReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tvaOperation_ReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.TDAY2_Payment_printRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1._DAY2tMaster_printRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.tva_ReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.bill_pay_printRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.DAY2tMasterRows_printRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.print__shiftposRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.report__shiftposRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.prt_QtainvoiceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1.prt_dayRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.tb_brTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.TB_COTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.TB_CURRTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.ACCOUNTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.TB_CUTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.TB_CategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.TB_STTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.TB_UNITTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.GET_DAYTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.prt_invoiceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.prt_invoice1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.usp_Barcod_reportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.GET_DAY_payTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.Usp_ChartOfaccount_SelectTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.Usp_Category_SelectTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.Usp_ItemeParent_SelectTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.usp_TB_Contact_Category_SelectTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.usp_TB_CU_SelectTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.get_mizan_bigTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.Operation_ReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.fian_accountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.get_BillCashTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.zmm_customerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.zmm_SalesManTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.day_itenme_oneTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.day_itenme_ALLTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.iteme_notbillTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.bill_toalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.Store_TransferTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.usp_ItemsBarcodeBill_reportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.rate_customerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.iteme_profitTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.Bill_profitTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.DashboardBill_profitTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.Dashboarditeme_profitTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.Dashboardrate_customerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.DashboardTotalSaleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.Dashboarditeme_notbillTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.Dashboarditeme_MaxcounTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.Dashboarditeme_MincounTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.get_JOURNALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.Checks_Select_TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.Checks_SelectIdTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.day_itenme_GuaranteeEndTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.iteme_balanceExpireDatePTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.get_JOURNAL_CustomerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.iteme_OrderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.iteme_balanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.iteme_balance_BarcodeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.iteme_balance_SerialTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.day_itenme_ALL_OfferTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.usp_ItemsList_reportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.iteme_countTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.iteme_TransferTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.day_itenme_one_odetorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.tva_billTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.tva_itemTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.tvaOperationsef_ReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.tvaOperation_ReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.TDAY2_Payment_printTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters._DAY2tMaster_printTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.tva_ReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.bill_pay_printTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.DAY2tMasterRows_printTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.print__shiftposTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.report__shiftposTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.prt_QtainvoiceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Odix_ProPlus.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Odix_ProPlus.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Odix_ProPlus.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Odix_ProPlus.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Odix_ProPlus.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Odix_ProPlus.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Odix_ProPlus.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Odix_ProPlus.DataSet1TableAdapters.TableAdapterManager.UpdateAll(Odix_ProPlus.DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Odix_ProPlus.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="F:Odix_ProPlus.Win_Dashboards.XtraUser_Dashboard.components">
+ <summary> 
+ Required designer variable.
+ </summary>
+</member>
+<member name="M:Odix_ProPlus.Win_Dashboards.XtraUser_Dashboard.Dispose(System.Boolean)">
+ <summary> 
+ Clean up any resources being used.
+ </summary>
+ <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+</member>
+<member name="M:Odix_ProPlus.Win_Dashboards.XtraUser_Dashboard.InitializeComponent">
+ <summary> 
+ Required method for Designer support - do not modify 
+ the contents of this method with the code editor.
+ </summary>
+</member>
+</members>
+</doc>
