@@ -1,0 +1,498 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="#LayoutScaleFactor">@1,Width=1@1,Height=1</property>
+  <property name="OptionsBehavior" isnull="true" iskey="true">
+    <property name="AllowPartialGroups">True</property>
+    <property name="AlignGroupSummaryInGroupRow">True</property>
+    <property name="AllowFixedGroups">True</property>
+    <property name="AutoExpandAllGroups">true</property>
+    <property name="AllowGroupExpandAnimation">True</property>
+  </property>
+  <property name="OptionsCustomization" isnull="true" iskey="true">
+    <property name="AllowMergedGrouping">True</property>
+  </property>
+  <property name="OptionsSelection" isnull="true" iskey="true">
+    <property name="ShowCheckBoxSelectorInGroupRow">True</property>
+  </property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="GroupDrawMode">Standard</property>
+    <property name="ShowChildrenInGroupPanel">true</property>
+    <property name="ShowAutoFilterRow">true</property>
+    <property name="ShowFooter">true</property>
+    <property name="ShowGroupedColumns">true</property>
+    <property name="ShowGroupPanelColumnsAsSingleRow">true</property>
+  </property>
+  <property name="OptionsFilter" isnull="true" iskey="true">
+    <property name="AllowAutoFilterConditionChange">True</property>
+    <property name="FilterEditorUseMenuForOperandsAndOperators">true</property>
+    <property name="DefaultFilterEditorView">VisualAndText</property>
+    <property name="ShowAllTableValuesInFilterPopup">true</property>
+    <property name="UseNewCustomFilterDialog">true</property>
+    <property name="ShowCustomFunctions">True</property>
+  </property>
+  <property name="OptionsFind" isnull="true" iskey="true">
+    <property name="SearchInPreview">true</property>
+    <property name="AlwaysVisible">true</property>
+  </property>
+  <property name="OptionsMenu" isnull="true" iskey="true">
+    <property name="ShowGroupSummaryEditorItem">true</property>
+    <property name="ShowAddNewSummaryItem">True</property>
+    <property name="ShowConditionalFormattingItem">true</property>
+    <property name="EnableGroupRowMenu">true</property>
+  </property>
+  <property name="FixedLineWidth">2</property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="ColumnPanelRowHeight">-1</property>
+  <property name="RowSeparatorHeight">0</property>
+  <property name="FooterPanelHeight">-1</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="RowHeight">-1</property>
+  <property name="GroupRowHeight">-1</property>
+  <property name="GroupFormat">{0}: [#image]{1} {2}</property>
+  <property name="ChildGridLevelName" />
+  <property name="VertScrollTipFieldName" />
+  <property name="PreviewFieldName" />
+  <property name="GroupPanelText" />
+  <property name="NewItemRowText" />
+  <property name="LevelIndent">-1</property>
+  <property name="PreviewIndent">-1</property>
+  <property name="PreviewLineCount">-1</property>
+  <property name="ScrollStyle">LiveVertScroll, LiveHorzScroll</property>
+  <property name="FocusRectStyle">CellFocus</property>
+  <property name="HorzScrollStep">0</property>
+  <property name="OptionsClipboard" isnull="true" iskey="true">
+    <property name="AllowTxtFormat">True</property>
+    <property name="AllowRtfFormat">True</property>
+    <property name="AllowHtmlFormat">True</property>
+    <property name="AllowExcelFormat">True</property>
+  </property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="ViewCaptionHeight">-1</property>
+  <property name="Columns" iskey="true" value="27">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Name">colNAME_BILL1</property>
+      <property name="Caption">اسم النمط</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">NAME_BILL1</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">0</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Name">colNUMBER_BILL_1</property>
+      <property name="Caption">رقم</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">NUMBER_BILL_1</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">1</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Name">colDATE_BILL_1</property>
+      <property name="Caption">تاريخ</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">DATE_BILL_1</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">2</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Name">colNameA_CUSTOMER</property>
+      <property name="Caption">الطرف الثاني</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">NameA_CUSTOMER</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">3</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Name">colBARCODE_bill_2</property>
+      <property name="Caption">باركود</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">BARCODE_bill_2</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">4</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Name">colGUID_ITEME_bill_2</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">GUID_ITEME_bill_2</property>
+      <property name="ColumnEditName" />
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Name">colname_iteme</property>
+      <property name="Caption">اسم المادة</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">name_iteme</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">5</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Name">colqty</property>
+      <property name="Caption">كمية</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">qty</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">6</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">qty</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">SUM={0:0.##}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Name">coltype_unit</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">type_unit</property>
+      <property name="ColumnEditName" />
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Name">colbalance</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">balance</property>
+      <property name="ColumnEditName" />
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Name">colprice</property>
+      <property name="Caption">السعر</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">price</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">7</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Name">coldisc_bill_2</property>
+      <property name="Caption">حسم</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">disc_bill_2</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">8</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="Name">colextra_bill_2</property>
+      <property name="Caption">اضافي</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">extra_bill_2</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">9</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="Name">colVAT_bill_2</property>
+      <property name="Caption">ضريبة</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">VAT_bill_2</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">10</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="Name">colVAT_R_bill_2</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">VAT_R_bill_2</property>
+      <property name="ColumnEditName" />
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="Name">coltotal_iteme</property>
+      <property name="Caption">اجمالي</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">total_iteme</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">11</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">total_iteme</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">SUM={0:0.##}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="Name">colnameA_unit_bill_2</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">nameA_unit_bill_2</property>
+      <property name="ColumnEditName" />
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="Name">colnameA_unit1</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">nameA_unit1</property>
+      <property name="ColumnEditName" />
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="Name">colNOTE_bill_2</property>
+      <property name="Caption">ملاحظات</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">NOTE_bill_2</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">12</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="Name">colPARENT_GUID_BILL_1</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">PARENT_GUID_BILL_1</property>
+      <property name="ColumnEditName" />
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item21" isnull="true" iskey="true">
+      <property name="Name">colnameA_store_bill_2</property>
+      <property name="Caption">مستودع</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">nameA_store_bill_2</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">13</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item22" isnull="true" iskey="true">
+      <property name="Name">colnameA_br</property>
+      <property name="Caption">الفرع</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">nameA_br</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">14</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item23" isnull="true" iskey="true">
+      <property name="Name">colname_co</property>
+      <property name="Caption">مركز كلفة</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">name_co</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">15</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item24" isnull="true" iskey="true">
+      <property name="Name">colNameA_sales</property>
+      <property name="Caption">مندوب مبيعات</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">NameA_sales</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">16</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item25" isnull="true" iskey="true">
+      <property name="Name">coltype_bill_number</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">type_bill_number</property>
+      <property name="ColumnEditName" />
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item26" isnull="true" iskey="true">
+      <property name="Name">colguid_bill_2</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">guid_bill_2</property>
+      <property name="ColumnEditName" />
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item27" isnull="true" iskey="true">
+      <property name="Name">colguid_store_bill_2</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="ImageIndex">-1</property>
+      <property name="FieldName">guid_store_bill_2</property>
+      <property name="ColumnEditName" />
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+  </property>
+  <property name="ViewCaption" />
+  <property name="BorderStyle">Default</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="Name">gridView1</property>
+  <property name="DetailHeight">350</property>
+  <property name="Tag" isnull="true" />
+  <property name="GroupSummary" iskey="true" value="1">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="ShowInGroupColumnFooterName" />
+      <property name="Tag" isnull="true" />
+      <property name="FieldName">number_day1</property>
+      <property name="SummaryType">None</property>
+      <property name="DisplayFormat" />
+    </property>
+  </property>
+  <property name="ActiveFilterString" />
+  <property name="FormatRules" iskey="true" value="3">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="ColumnName">coltotal_iteme</property>
+      <property name="Name">Format0</property>
+      <property name="RuleType">#FormatConditionRule2ColorScale</property>
+      <property name="Rule" isnull="true" iskey="true">
+        <property name="PredefinedName">White, Green</property>
+      </property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="ColumnName">colqty</property>
+      <property name="Name">Format1</property>
+      <property name="RuleType">#FormatConditionRuleIconSet</property>
+      <property name="Rule" isnull="true" iskey="true">
+        <property name="IconSet" isnull="true" iskey="true">
+          <property name="Name">Signs3</property>
+          <property name="CategoryName">Shapes</property>
+          <property name="ValueType">Percent</property>
+          <property name="Icons" iskey="true" value="3">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="Value">67</property>
+              <property name="ValueComparison">GreaterOrEqual</property>
+              <property name="PredefinedName">Signs3_1.png</property>
+            </property>
+            <property name="Item2" isnull="true" iskey="true">
+              <property name="Value">33</property>
+              <property name="ValueComparison">GreaterOrEqual</property>
+              <property name="PredefinedName">Signs3_2.png</property>
+            </property>
+            <property name="Item3" isnull="true" iskey="true">
+              <property name="ValueComparison">GreaterOrEqual</property>
+              <property name="PredefinedName">Signs3_3.png</property>
+            </property>
+          </property>
+        </property>
+      </property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="ColumnName">coltotal_iteme</property>
+      <property name="Name">Format2</property>
+      <property name="RuleType">#FormatConditionRuleIconSet</property>
+      <property name="Rule" isnull="true" iskey="true">
+        <property name="IconSet" isnull="true" iskey="true">
+          <property name="Name">TrafficLights3Unrimmed</property>
+          <property name="CategoryName">Shapes</property>
+          <property name="ValueType">Percent</property>
+          <property name="Icons" iskey="true" value="3">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="Value">67</property>
+              <property name="ValueComparison">GreaterOrEqual</property>
+              <property name="PredefinedName">TrafficLights23_1.png</property>
+            </property>
+            <property name="Item2" isnull="true" iskey="true">
+              <property name="Value">33</property>
+              <property name="ValueComparison">GreaterOrEqual</property>
+              <property name="PredefinedName">TrafficLights23_2.png</property>
+            </property>
+            <property name="Item3" isnull="true" iskey="true">
+              <property name="ValueComparison">GreaterOrEqual</property>
+              <property name="PredefinedName">TrafficLights23_3.png</property>
+            </property>
+          </property>
+        </property>
+      </property>
+    </property>
+  </property>
+  <property name="FormatConditions" iskey="true" value="0" />
+  <property name="GroupSummarySortInfoState" />
+  <property name="FindFilterText" />
+  <property name="FindPanelVisible">false</property>
+</XtraSerializer>

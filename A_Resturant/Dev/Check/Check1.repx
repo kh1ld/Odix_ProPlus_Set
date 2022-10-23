@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="19.2.3.0" Ref="1" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v19.2, Version=19.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="Xtra_Check" SnapGridSize="25" ReportUnit="TenthsOfAMillimeter" Margins="13, 0, 440, 0" PaperKind="Custom" PageWidth="1900" PageHeight="600" Version="19.2" DataSource="#Ref-0" Dpi="254" Font="Arial, 9.75pt">
+  <Bands>
+    <Item1 Ref="2" ControlType="TopMarginBand" Name="TopMargin" HeightF="440" Dpi="254">
+      <Controls>
+        <Item1 Ref="3" ControlType="XRLabel" Name="XrLabel5" Multiline="true" Text="XrLabel2" TextAlignment="MiddleRight" SizeF="1076.85413,58.4199677" LocationFloat="234.650024, 356.58" Dpi="254" Padding="5,5,0,0,254">
+          <ExpressionBindings>
+            <Item1 Ref="4" EventName="BeforePrint" PropertyName="Text" Expression="[Notes]" />
+          </ExpressionBindings>
+          <StylePriority Ref="5" UseTextAlignment="false" />
+        </Item1>
+        <Item2 Ref="6" ControlType="XRLabel" Name="XrLabel4" TextFormatString="{0:#.00}" Multiline="true" Text="XrLabel2" TextAlignment="MiddleRight" SizeF="333.375122,58.42003" LocationFloat="1325.79163, 210.631683" Dpi="254" Padding="5,5,0,0,254">
+          <ExpressionBindings>
+            <Item1 Ref="7" EventName="BeforePrint" PropertyName="Text" Expression="[TotalAmount]" />
+          </ExpressionBindings>
+          <StylePriority Ref="8" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="9" ControlType="XRLabel" Name="XrLabel3" Multiline="true" Text="XrLabel2" TextAlignment="MiddleRight" SizeF="1076.85413,58.4199677" LocationFloat="234.650024, 210.631683" Dpi="254" Padding="5,5,0,0,254">
+          <ExpressionBindings>
+            <Item1 Ref="10" EventName="BeforePrint" PropertyName="Text" Expression="[TotalWordArabic]" />
+          </ExpressionBindings>
+          <StylePriority Ref="11" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="12" ControlType="XRLabel" Name="XrLabel2" Multiline="true" Text="XrLabel2" TextAlignment="MiddleRight" SizeF="1264.70837,58.4199753" LocationFloat="399.75, 99.29501" Dpi="254" Padding="2,2,0,0,96">
+          <ExpressionBindings>
+            <Item1 Ref="13" EventName="BeforePrint" PropertyName="Text" Expression="[NameAccount_ID]" />
+          </ExpressionBindings>
+          <StylePriority Ref="14" UseTextAlignment="false" />
+        </Item4>
+        <Item5 Ref="15" ControlType="XRLabel" Name="XrLabel1" TextFormatString="{0:dd/MM/yyyy}" Multiline="true" Text="XrLabel1" TextAlignment="MiddleCenter" SizeF="436.5625,58.42" LocationFloat="106.062508, 25.0000076" Dpi="254" Padding="2,2,0,0,96">
+          <ExpressionBindings>
+            <Item1 Ref="16" EventName="BeforePrint" PropertyName="Text" Expression="[IssueDate]" />
+          </ExpressionBindings>
+          <StylePriority Ref="17" UseTextAlignment="false" />
+        </Item5>
+      </Controls>
+    </Item1>
+    <Item2 Ref="18" ControlType="BottomMarginBand" Name="BottomMargin" HeightF="0" Dpi="254" />
+    <Item3 Ref="19" ControlType="DetailBand" Name="Detail" HeightF="0" Dpi="254">
+      <HierarchyPrintOptions Ref="20" Indent="50.8" />
+    </Item3>
+  </Bands>
+  <ComponentStorage>
+    <Item1 Ref="0" ObjectType="DevExpress.DataAccess.ObjectBinding.ObjectDataSource,DevExpress.DataAccess.v19.2" Name="ObjectDataSource1" Base64="PE9iamVjdERhdGFTb3VyY2UgTmFtZT0iT2JqZWN0RGF0YVNvdXJjZTEiPjxEYXRhU291cmNlIFR5cGU9IkFDQy5EYXRhU2V0MStDaGVja3NfU2VsZWN0SWREYXRhVGFibGUsIERhdGFTZXQxLkRlc2lnbmVyLnZiLmRsbCwgVmVyc2lvbj0wLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwiIC8+PC9PYmplY3REYXRhU291cmNlPg==" />
+  </ComponentStorage>
+</XtraReportsLayoutSerializer>
