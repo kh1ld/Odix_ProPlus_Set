@@ -1227,11 +1227,6 @@ Odix_ProPlus
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:Odix_ProPlus.My.Resources.Resources.sound_off_icon">
-<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member>
 <member name="P:Odix_ProPlus.My.Resources.Resources.sound_off_icon__1_">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.

@@ -7,14 +7,14 @@
     <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Odix_ProPlus.exe.manifest" size="169877">
+    <dependentAssembly dependencyType="install" codebase="Odix_ProPlus.exe.manifest" size="172591">
       <assemblyIdentity name="Odix_ProPlus.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>j1U2p0t5tYvqCt89PYYhc9Ge65pJIB3d4A5apT5Cg1k=</dsig:DigestValue>
+        <dsig:DigestValue>HbeSdZUnriLoZxVcgukfXcVdIHrOeDo9rJim62UDoOw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

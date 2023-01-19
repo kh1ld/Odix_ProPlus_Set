@@ -2671,26 +2671,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="701992">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="711952">
       <assemblyIdentity name="Newtonsoft.Json" version="13.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tiSUnfiw46YVP9+3MKfG9JkLZZLuDZIuF4hDPSdmEPM=</dsig:DigestValue>
+        <dsig:DigestValue>xcg7vBdBvm/0xJDAruNMFilFQj7Fd8ZGU4stIc4TGZ4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Odix_ProPlus.exe" size="16761232">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Odix_ProPlus.exe" size="16863632">
       <assemblyIdentity name="Odix_ProPlus" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>27fV5HaSSCNpbAC7lZhAzHWmyzRshnIvcboo4NWdEzc=</dsig:DigestValue>
+        <dsig:DigestValue>BlDRjOt3RaIYhhmmOEwIb1G7emmqJzAxraUUDgM6IcE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -2715,6 +2715,18 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>Kr9CFgMCsPROp9zC4cHvkQEG34g1sNlPnO2UKGVbieE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RestSharp.dll" size="160256">
+      <assemblyIdentity name="RestSharp" version="104.4.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ee8FzYT4q3y+T8k3J+KqNq3KsAJmHmoUw5V7fysi5cs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -2796,13 +2808,13 @@
       <dsig:DigestValue>eU8x7px1OP+qq9oanoKaO0Hs+YhYZ+fti4sgljhC8IM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Odix_ProPlus.exe.config" size="8791">
+  <file name="Odix_ProPlus.exe.config" size="8765">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>BTBARRUMx7e9yNCS1EnLc5nQeNNf4Jljfxzpt8AS81k=</dsig:DigestValue>
+      <dsig:DigestValue>3tg4rk5i3q+DFed1v+GEXPns/kJQTsSFKqYRSTe6T40=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Recycle.ico" size="4286">
@@ -2812,6 +2824,51 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>CSmOzSxNzUTko3dsBl7Q+Lz+JFItTkr36Luo5qNPL2o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Media-Controls-Volume-Up-icon.png" size="659">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>/VwNri2wdw52BTlLnUh5z8f76iD7wtqbdeg6+ogdfMM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\sound-off-icon (1).png" size="1920">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ASak2Q6lJiEIy3/7U2DUzBABcggpwpJZyvjZg9I5ydA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\sound-off-icon.png" size="978">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CciD3XxXBl9Di6Zu66ZiQP7j4IjPQ3+CRn08Opb0Rpw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\volume_icon-icons.com_71055 (1).png" size="227">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5CuRQ46KkAeB5jofctFJHWB/TCBB1Vd+euu79amczt8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\volume_icon-icons.com_71055.png" size="227">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5CuRQ46KkAeB5jofctFJHWB/TCBB1Vd+euu79amczt8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="نهائي.ico" size="38055">
