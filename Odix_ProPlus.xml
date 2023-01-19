@@ -962,6 +962,11 @@ Odix_ProPlus
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.Media_Controls_Volume_Up_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Odix_ProPlus.My.Resources.Resources.memo">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -1222,6 +1227,11 @@ Odix_ProPlus
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.sound_off_icon__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Odix_ProPlus.My.Resources.Resources.speedcrunch">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -1308,6 +1318,11 @@ Odix_ProPlus
 </summary>
 </member>
 <member name="P:Odix_ProPlus.My.Resources.Resources.truck">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Odix_ProPlus.My.Resources.Resources.volume_icon_icons_com_71055">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
