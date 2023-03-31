@@ -1015,14 +1015,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Odix_ProPlus.exe" size="16874384">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Odix_ProPlus.exe" size="16859536">
       <assemblyIdentity name="Odix_ProPlus" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>bIFPrRoSI6ag9Fv9YPGB/Nt7u8nPaQPh9Qd10PLdWSc=</dsig:DigestValue>
+        <dsig:DigestValue>4OVk0SNCa0O3s7b1jAsuT7lC8ODJ0Kz2l9RwjyrnCb8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1075,14 +1075,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="stdole.dll" size="32192">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="stdole.dll" size="32392">
       <assemblyIdentity name="stdole" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>cIq9imgoDt+GxOFQczv6npUQ3lA/YBrtHKrixl+0mfw=</dsig:DigestValue>
+        <dsig:DigestValue>IPt0bQHcNVxdlk/EVgAlYjdDLtQjUdydHQTiomo7Q1E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
