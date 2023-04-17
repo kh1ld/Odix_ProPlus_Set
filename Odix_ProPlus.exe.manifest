@@ -1015,14 +1015,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Odix_ProPlus.exe" size="16859536">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Odix_ProPlus.exe" size="16860048">
       <assemblyIdentity name="Odix_ProPlus" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>CSueG1Vx7q/MJO3wcg9XtsocQKn5FUlipV40P/5kirw=</dsig:DigestValue>
+        <dsig:DigestValue>VshsYYBQcRjDg8Pe2PSiprBopX3QGCGFQUAW+jXtbWI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
